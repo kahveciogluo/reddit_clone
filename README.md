@@ -16,4 +16,4 @@ $ flutter pub get
 
 Then, you can run the app by running the following command:
 
-# flutter run
+$ flutter run
